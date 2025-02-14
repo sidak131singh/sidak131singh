@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently working on two web development projects: a Leave Management System for Tech Carrot and a College Infirmary System for my institute.<br><br>have a strong mix of software development, AI/ML research, and leadership roles<br><br>excelled in both academics and sports, winning Mr. Fresher, best performer awards, and multiple sports achievements
-
+Passionate about AI, web development, and problem-solving—love building cool projects and balancing tech with sports! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sidak chahal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidak22495@iiitd.ac.in) 
